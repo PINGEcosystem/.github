@@ -37,9 +37,9 @@ Light-weight interface for running PING Ecosystem.
 - [![PyPI - Version](https://img.shields.io/pypi/v/pingwizard?style=flat-square&label=Latest%20Version%20(PyPi))](https://pypi.org/project/pingwizard/)
 - [GitHub](https://github.com/CameronBodine/PINGWizard)
 
-### CrabDetect [Coming Soon]
+### GhostVision [Coming Soon]
 
 Detect & locate crab pots from Humminbird sonar recordings with ML.
 
-- [GitHub](https://github.com/CameronBodine/CrabDetect)
+- [GitHub](https://github.com/CameronBodine/GhostVision)
 
