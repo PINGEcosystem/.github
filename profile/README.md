@@ -41,5 +41,5 @@ Light-weight interface for running PING Ecosystem.
 
 Detect & locate crab pots from Humminbird sonar recordings with ML.
 
-- [GitHub](https://github.com/CameronBodine/GhostVision)
+- [GitHub](https://github.com/PINGEcosystem/GhostVision)
 
