@@ -16,6 +16,18 @@ Open-source interface for processing recreation-grade side scan sonar datasets a
 - [GitHub](https://github.com/CameronBodine/PINGMapper)
 - [Webpage](https://cameronbodine.github.io/PINGMapper/)
 
+### GhostVision [Coming Soon]
+
+Detect & locate crab pots from Humminbird sonar recordings with ML.
+
+- [GitHub](https://github.com/PINGEcosystem/GhostVision)
+
+### RockMapper [Coming Soon]
+
+Interface for predicting and mapping habitat (substrates) from any side-scan sonar mosaic.
+
+- [GitHub](github.com/PINGEcosystem/RockMapper)
+
 ### PINGVerter
 
 A Python-based convertor for sonar logs collected with recreation-grade fishfinders.
@@ -36,10 +48,5 @@ Light-weight interface for running PING Ecosystem.
 
 - [![PyPI - Version](https://img.shields.io/pypi/v/pingwizard?style=flat-square&label=Latest%20Version%20(PyPi))](https://pypi.org/project/pingwizard/)
 - [GitHub](https://github.com/CameronBodine/PINGWizard)
-
-### GhostVision [Coming Soon]
-
-Detect & locate crab pots from Humminbird sonar recordings with ML.
-
-- [GitHub](https://github.com/PINGEcosystem/GhostVision)
+- 
 
